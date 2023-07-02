@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Slack Huddles for Linux",
-    "version": "0.4",
+    "version": "0.5",
     "description": "Enables Slack Huddles on Linux via User-Agent spoofing.",
 
     "browser_specific_settings": {
